@@ -2,6 +2,7 @@ Challenge 3 - Pomodoro Timer
 ============================
 
 You are required to develop a Pomodoro Timer - a simple kitchen timer shaped like a tomato!
+
 The Pomodoro Technique is used in time management to create periods of focus on a particular task.
 
 CREATING A TIMER
