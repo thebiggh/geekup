@@ -5,10 +5,11 @@ Your friend in Grimsby has decided to market fresh fish from his van to other UK
 
 This prices in different local markets are:
 
-£ / kg	Nottingham (800km)	Glasgow (1100 km)	Leeds (600km)
-Cod	500			450			600
-Octopus	0			120			100
-Crab	450			0			500
+| Â£ / kg	| Nottingham (800km)	| Glasgow (1100 km)	| Leeds (600km) |
+|---------|---------------------|-------------------|---------------|
+|Cod	   |500			             |450			           |600 |
+|Octopus |0			               |120			           |100 |
+|Crab	   |450			             |0			             |500 |
 
-The cost of petrol as £2 for each kilometer travelled
+The cost of petrol is Â£2 for each kilometer travelled
 The purchase value of the load reduces by 1% for every 100 kilometers traveled as the seafood starts to degrade.
