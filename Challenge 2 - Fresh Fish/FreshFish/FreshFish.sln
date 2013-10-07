@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshFish", "FreshFish\FreshFish.csproj", "{364505C9-67B5-4755-A3DE-E4C4BAB76D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshFish.Tests", "FreshFish.Tests\FreshFish.Tests.csproj", "{56752542-3E1F-49C6-8357-CEAC6EAE9AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{364505C9-67B5-4755-A3DE-E4C4BAB76D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364505C9-67B5-4755-A3DE-E4C4BAB76D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364505C9-67B5-4755-A3DE-E4C4BAB76D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364505C9-67B5-4755-A3DE-E4C4BAB76D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56752542-3E1F-49C6-8357-CEAC6EAE9AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56752542-3E1F-49C6-8357-CEAC6EAE9AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56752542-3E1F-49C6-8357-CEAC6EAE9AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56752542-3E1F-49C6-8357-CEAC6EAE9AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
