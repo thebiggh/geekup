@@ -1,0 +1,5 @@
+C:\Users\Marvin\Documents\GitHub\geekup\Challenge 2 - Fresh Fish\FreshFish\FreshFish\bin\Debug\FreshFish.dll
+C:\Users\Marvin\Documents\GitHub\geekup\Challenge 2 - Fresh Fish\FreshFish\FreshFish\bin\Debug\FreshFish.pdb
+C:\Users\Marvin\Documents\GitHub\geekup\Challenge 2 - Fresh Fish\FreshFish\FreshFish\obj\Debug\FreshFish.csprojResolveAssemblyReference.cache
+C:\Users\Marvin\Documents\GitHub\geekup\Challenge 2 - Fresh Fish\FreshFish\FreshFish\obj\Debug\FreshFish.dll
+C:\Users\Marvin\Documents\GitHub\geekup\Challenge 2 - Fresh Fish\FreshFish\FreshFish\obj\Debug\FreshFish.pdb
